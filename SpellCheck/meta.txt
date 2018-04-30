@@ -1,0 +1,2 @@
+girdi01.txt
+girdi02.txt
